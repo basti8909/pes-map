@@ -23,9 +23,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/mediaportal01.rz.uni-kiel.de\/b\/seb-mgg-npq-ecw"
+                 "value":"KaffeeUndKaffe"
                 }],
          "type":"tilelayer",
          "visible":true,
